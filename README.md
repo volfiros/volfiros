@@ -9,8 +9,8 @@
 ## My Github Stats
 
 <p>
-<img height=230em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&show_icons=true&theme=radical" />
-<img height=230em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&theme=radical"/>
+<img height=240em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&show_icons=true&theme=radical" />
+<img height=240em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&theme=radical"/>
 </p>
 
 <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=Rithvik&theme=radical&v=2"/>
