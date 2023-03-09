@@ -9,6 +9,6 @@
 ## My Github Stats
 
 <p>
-<img height=280em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&show_icons=true" />
-<img height=280em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&locale=en"/>
+<img height=220em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&show_icons=true" />
+<img height=220em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&locale=en"/>
 </p>
