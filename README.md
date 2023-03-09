@@ -13,4 +13,3 @@
 <img height=241em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&theme=radical"/>
 </p>
 
-<img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=Rithvik&theme=radical&v=2"/>
