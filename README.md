@@ -3,9 +3,16 @@
 - ⚡ I am a Frontend Developer.
 - 💻 I am currently exploring Fullstack development and Web3 space.
 - 👯 I’m looking to collaborate on **MERN** stack related projects
-- 💬 Ask me anything, I am ready to help!
+- 💬 Ask me anything, I am ready to help!  
+    
+<p align="center">
+    <a href="https://twitter.com/Rithvik_op"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" /></a>
+    <a href="https://www.linkedin.com/in/sai-rithvik-padma" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/linkedin.svg" alt="Sai-Rithvik-padma" height="45" width="45" /></a>
+    <a href="https://www.instagram.com/rithvikp03"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/instagram.svg" alt="Rithvik-padma" height="45" width="45" /></a>
+    <a href="https://telegram.dog/Do_nt_Be_afraid"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="DontBeAfraid" height="45" width="45" /></a>
+</p>
 
-## Programming Languages 
+## Programming Languages  
 
 <p>
   <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"></a>
