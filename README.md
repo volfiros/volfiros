@@ -7,7 +7,7 @@
     
 <p align="center">
     <a href="https://twitter.com/Rithvik_op"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" /></a>
-    <a href="https://www.linkedin.com/in/sai-rithvik-padma" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/linkedin.svg" alt="Sai-Rithvik-padma" height="45" width="45" /></a>
+    <a href="https://www.linkedin.com/in/sai-rithvik-padma-6229ba224" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/linkedin.svg" alt="Sai-Rithvik-padma" height="45" width="45" /></a>
     <a href="https://www.instagram.com/rithvikp03"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/instagram.svg" alt="Rithvik-padma" height="45" width="45" /></a>
     <a href="https://telegram.dog/Do_nt_Be_afraid"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="DontBeAfraid" height="45" width="45" /></a>
 </p>
@@ -37,8 +37,8 @@
 ## My Github Stats
 
 <p>
-<img height=241em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&show_icons=true&theme=radical" />
-<img height=241em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&theme=radical"/>
+<img height=200em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&show_icons=true&theme=radical" />
+<img height=200em src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithvik-padma&count_private=true&show_icons=true&hide=html&theme=radical"/>
 </p>
 
 
