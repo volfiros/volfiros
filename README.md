@@ -41,4 +41,6 @@
 <img src="https://streak-stats.demolab.com?user=Rithvik-padma&theme=radical&hide_border=true" width=600em />
 </p>
 
+[![Rithvik-padma's GitHub | Languages Over Time](https://stats.quine.sh/Rithvik-padma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rithvik-padma)
+
 
