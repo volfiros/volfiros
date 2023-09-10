@@ -1,9 +1,11 @@
-# Hey 👋, This is Rithvik!
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&color=C0C0C0FF&weight=800">
+</a>
 
-- ⚡ I am a Frontend Engineer.
-- 💻 I am currently exploring Fullstack development and Web3 space.
-- 👯 I’m looking to collaborate on **MERN** stack and Blockchain related projects
-- 💬 Ask me anything, I am ready to help!  
+<li>⚡ I am a Frontend Engineer.</li>
+<li>💻 I am currently exploring Fullstack development and Web3 space.</li>
+<li>👯 I’m looking to collaborate on **MERN** stack and Blockchain related projects</li>
+<li>💬 Ask me anything, I am ready to help!</li>
     
 <p align="center">
     <a href="https://twitter.com/Rithvik_op"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" /></a>
