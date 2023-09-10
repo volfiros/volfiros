@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&color=C0C0C0FF&weight=800">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&weight=800">
 </a>
 
 <li>⚡ I am a Frontend Engineer.</li>
