@@ -3,7 +3,7 @@
 </a>
 
 <li>⚡ I am a Frontend Engineer.</li>
-<li>💻 I am currently exploring Fullstack development and Web3 space.</li>
+<li>💻 I am currently exploring Fullstack web development and Web3 space.</li>
 <li>👯 I’m looking to collaborate on **MERN** stack and Blockchain related projects</li>
 <li>💬 Ask me anything, I am ready to help!</li>
     
