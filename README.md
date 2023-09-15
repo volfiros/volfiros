@@ -6,6 +6,7 @@
 <li>💻 I am currently exploring Fullstack web development and Web3 space.</li>
 <li>👯 I’m looking to collaborate on **MERN** stack and Blockchain related projects</li>
 <li>💬 Ask me anything, I am ready to help!</li>
+<br/>
     
 <p align="center">
     <a href="https://twitter.com/Rithvik_op"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" /></a>
@@ -39,6 +40,7 @@
 
 ## My Github Stats
 
+### ⚡ Recent Contrbutions
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2731](https://github.com/getAlby/lightning-browser-extension/pull/2731#issuecomment-1719746678) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
 2. 🗣 Commented on [#2731](https://github.com/getAlby/lightning-browser-extension/pull/2731#issuecomment-1719102655) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
