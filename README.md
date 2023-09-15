@@ -40,7 +40,6 @@
 ## My Github Stats
 
 <p>
-    <img width=600em src="https://github-readme-stats.vercel.app/api?username=Rithvik-padma&count_private=true&include_all_commits=true&label=PRs&show_icons=true&theme=radical&hide_border=true&hide_rank=true" />
     <img src="https://streak-stats.demolab.com?user=Rithvik-padma&theme=radical&hide_border=true" width=600em />
     <img src="https://github-contributor-stats.vercel.app/api?username=Rithvik-padma&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width=600em />
 </p>
