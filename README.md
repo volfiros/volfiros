@@ -50,8 +50,11 @@
 <!--END_SECTION:activity-->   
 
 <br/>
-<img src="https://streak-stats.demolab.com?user=Rithvik-padma&theme=radical" width=600em /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithvik-padma&theme=radical" width=600em />
+<img src="https://streak-stats.demolab.com?user=Rithvik-padma&theme=radical&hide_border=true" width=600em />
+<img src="https://stats.quine.sh/Rithvik-padma/languages-over-time?theme=dark" width=600em />
 
-[![Rithvik-padma's GitHub | Languages Over Time](https://stats.quine.sh/Rithvik-padma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rithvik-padma)
+
+
 
 
