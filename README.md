@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&weight=800">
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&weight=800">
 
 <li>⚡ I am a Frontend Engineer.</li>
 <li>💻 I am currently exploring Fullstack web development and Web3 space.</li>
