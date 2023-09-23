@@ -38,6 +38,8 @@
 
 ## My Github Stats
 
+[![wakatime](https://wakatime.com/badge/user/6a5ddb8b-0c8e-4305-a44d-6c491192959b.svg)](https://wakatime.com/@6a5ddb8b-0c8e-4305-a44d-6c491192959b)
+
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma)
