@@ -42,11 +42,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1971](https://github.com/getAlby/lightning-browser-extension/issues/1971#issuecomment-1741588864) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-2. 🗣 Commented on [#2498](https://github.com/getAlby/lightning-browser-extension/issues/2498#issuecomment-1741587457) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-3. 🗣 Commented on [#2528](https://github.com/getAlby/lightning-browser-extension/issues/2528#issuecomment-1741585677) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-4. ❗ Opened issue [#183](https://github.com/lightsats/lightsats/issues/183) in [lightsats/lightsats](https://github.com/lightsats/lightsats)
-5. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma)
+1. 🗣 Commented on [#1971](https://github.com/getAlby/lightning-browser-extension/issues/1971#issuecomment-1741656489) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+2. 🗣 Commented on [#1971](https://github.com/getAlby/lightning-browser-extension/issues/1971#issuecomment-1741588864) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+3. 🗣 Commented on [#2498](https://github.com/getAlby/lightning-browser-extension/issues/2498#issuecomment-1741587457) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+4. 🗣 Commented on [#2528](https://github.com/getAlby/lightning-browser-extension/issues/2528#issuecomment-1741585677) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+5. ❗ Opened issue [#183](https://github.com/lightsats/lightsats/issues/183) in [lightsats/lightsats](https://github.com/lightsats/lightsats)
 <!--END_SECTION:activity-->   
 
 <br/>
