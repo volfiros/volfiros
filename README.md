@@ -42,11 +42,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#183](https://github.com/lightsats/lightsats/issues/183) in [lightsats/lightsats](https://github.com/lightsats/lightsats)
-2. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma)
-3. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma)
-4. 🗣 Commented on [#2774](https://github.com/getAlby/lightning-browser-extension/issues/2774#issuecomment-1732295860) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-5. 🗣 Commented on [#2769](https://github.com/getAlby/lightning-browser-extension/pull/2769#issuecomment-1727998373) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+1. 🗣 Commented on [#1971](https://github.com/getAlby/lightning-browser-extension/issues/1971#issuecomment-1741588864) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+2. 🗣 Commented on [#2498](https://github.com/getAlby/lightning-browser-extension/issues/2498#issuecomment-1741587457) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+3. 🗣 Commented on [#2528](https://github.com/getAlby/lightning-browser-extension/issues/2528#issuecomment-1741585677) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+4. ❗ Opened issue [#183](https://github.com/lightsats/lightsats/issues/183) in [lightsats/lightsats](https://github.com/lightsats/lightsats)
+5. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Rithvik-padma)
 <!--END_SECTION:activity-->   
 
 <br/>
