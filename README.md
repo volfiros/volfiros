@@ -42,11 +42,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/FrancescoXX/contentbox/issues/71#issuecomment-1763378781) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
-2. 🗣 Commented on [#2791](https://github.com/getAlby/lightning-browser-extension/pull/2791#issuecomment-1746240424) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-3. 🗣 Commented on [#2796](https://github.com/getAlby/lightning-browser-extension/pull/2796#issuecomment-1745416694) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-4. 💪 Opened PR [#2796](https://github.com/getAlby/lightning-browser-extension/pull/2796) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-5. 🗣 Commented on [#2791](https://github.com/getAlby/lightning-browser-extension/pull/2791#issuecomment-1744120780) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+1. 🗣 Commented on [#79](https://github.com/FrancescoXX/contentbox/issues/79#issuecomment-1763379522) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
+2. 🗣 Commented on [#71](https://github.com/FrancescoXX/contentbox/issues/71#issuecomment-1763378781) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
+3. 🗣 Commented on [#2791](https://github.com/getAlby/lightning-browser-extension/pull/2791#issuecomment-1746240424) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+4. 🗣 Commented on [#2796](https://github.com/getAlby/lightning-browser-extension/pull/2796#issuecomment-1745416694) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+5. 💪 Opened PR [#2796](https://github.com/getAlby/lightning-browser-extension/pull/2796) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
 <!--END_SECTION:activity-->   
 
 <br/>
