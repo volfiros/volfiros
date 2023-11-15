@@ -42,11 +42,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1812802809) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-2. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1811848187) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-3. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1810452886) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-4. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1807832549) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-5. 🗣 Commented on [#2851](https://github.com/getAlby/lightning-browser-extension/issues/2851#issuecomment-1800201396) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+1. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1812859240) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+2. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1812802809) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+3. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1811848187) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+4. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1810452886) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+5. 🗣 Commented on [#2836](https://github.com/getAlby/lightning-browser-extension/pull/2836#issuecomment-1807832549) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
 <!--END_SECTION:activity-->   
 
 <br/>
