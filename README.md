@@ -54,6 +54,7 @@
 <!--<img src="https://streak-stats.demolab.com?user=Rithvik-padma&theme=radical" width=600em />-->
 <img src="https://stats.quine.sh/Rithvik-padma/languages-over-time?theme=dark" width=600em />
 <img src="https://holopin.me/rithvikpadma" width=600em />
+<img src="https://github-profile-trophy.vercel.app/?username=Rithvik-padma&theme=gruvbox&column=-1&rank=-C,-?" width=600em/>
 
 
 
