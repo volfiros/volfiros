@@ -16,23 +16,20 @@
 ## Programming Languages  
 
 <p>
-    <a href="#"><img alt="C" align="center" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white" height="20"></a>
-    <a href="#"><img alt="JavaScript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="20"></a>
-    <a href="#"><img alt="Java" align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Python" align="center" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white" height="20"></a>
+    <a href="#"><img alt="Rust" align="center" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="22"></a>
     <a href="#"><img alt="TypeScript" align="center" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Solidity" align="center" src="https://img.shields.io/badge/Solidity-000000.svg?style=for-the-badge&logo=solidity&logoColor=white" height="21.85"></a>
+    <a href="#"><img alt="C" align="center" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white" height="20"></a>
+    <a href="#"><img alt="Python" align="center" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white" height="20"></a>
+    <a href="#"><img alt="Java" align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20"></a>
 </p>
 
 ## Frameworks
 
 <flex>
-    <a href="#"><img alt="Bootstrap" align="center" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="20"></a>
-    <a href="#"><img alt="React" align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="22"></a>
-    <a href="#"><img alt="Wordpress" align="center" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Node.js" align="center" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Vue" align="center" src="https://img.shields.io/badge/Vue-41B883.svg?style=for-the-badge&logo=vue.js&logoColor=white" height="20"></a>
+    <a href="#"><img alt="React" align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="22.5"></a>
     <a href="#"><img alt="Next.js" align="center" src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="22.5"></a>
+    <a href="#"><img alt="Vue" align="center" src="https://img.shields.io/badge/Vue-41B883.svg?style=for-the-badge&logo=vue.js&logoColor=white" height="20"></a>    
+    <a href="#"><img alt="Web3.js" align="center" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" height="20"></a>    
     <a href="#"><img alt="Tailwind" align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"></a>
 </flex>
 
