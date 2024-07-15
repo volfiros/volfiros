@@ -39,10 +39,10 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2960](https://github.com/getAlby/lightning-browser-extension/pull/2960#issuecomment-1868222807) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-2. 🗣 Commented on [#2960](https://github.com/getAlby/lightning-browser-extension/pull/2960#issuecomment-1868222352) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-3. 💪 Opened PR [#2960](https://github.com/getAlby/lightning-browser-extension/pull/2960) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-4. 🗣 Commented on [#2573](https://github.com/getAlby/lightning-browser-extension/issues/2573#issuecomment-1864527925) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+1. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2227471072) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
+2. ❗ Opened issue [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
+3. ❗ Opened issue [#14459](https://github.com/zed-industries/zed/issues/14459) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#497](https://github.com/zed-industries/extensions/issues/497#issuecomment-2227445299) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 5. ❌ Closed PR [#2755](https://github.com/getAlby/lightning-browser-extension/pull/2755) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
 <!--END_SECTION:activity-->   
 
