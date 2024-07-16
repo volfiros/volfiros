@@ -39,11 +39,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2229257027) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-2. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2227471072) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-3. ❗ Opened issue [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-4. ❗ Opened issue [#14459](https://github.com/zed-industries/zed/issues/14459) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 🗣 Commented on [#497](https://github.com/zed-industries/extensions/issues/497#issuecomment-2227445299) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+1. 🔒 Closed issue [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
+2. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2229257027) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
+3. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2227471072) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
+4. ❗ Opened issue [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
+5. ❗ Opened issue [#14459](https://github.com/zed-industries/zed/issues/14459) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->   
 
 <br/>
