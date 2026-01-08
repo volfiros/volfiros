@@ -1,16 +1,16 @@
 <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&weight=800">
 
-<li>⚡ I am a Frontend Engineer.</li>
+<li>⚡ I am a Software Engineer.</li>
 <li>💻 I am currently exploring Fullstack web development and Web3 space.</li>
 <li>👯 I’m looking to collaborate on MERN stack and Blockchain related projects</li>
 <li>💬 Ask me anything, I am ready to help!</li>
 <br/>
     
 <p align="center">
-    <a href="https://twitter.com/Rithvik_op"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" /></a>
+    <a href="https://twitter.com/volfiros"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" /></a>
     <a href="https://www.linkedin.com/in/sai-rithvik-padma-6229ba224" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/linkedin.svg" alt="Sai-Rithvik-padma" height="45" width="45" /></a>
     <a href="https://www.instagram.com/rithvikp03"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/instagram.svg" alt="Rithvik-padma" height="45" width="45" /></a>
-    <a href="https://telegram.dog/Do_nt_Be_afraid"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="DontBeAfraid" height="45" width="45" /></a>
+    <a href="https://telegram.dog/volfiros"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="DontBeAfraid" height="45" width="45" /></a>
 </p>
 
 ## Programming Languages  
