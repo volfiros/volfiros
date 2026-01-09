@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&weight=800">
 
-<li>⚡ I am a Software Engineer.</li>
-<li>💻 I am currently exploring Fullstack web development and Web3 space.</li>
-<li>👯 I’m looking to collaborate on MERN stack and Blockchain related projects</li>
+<li>⚡ I am a Full Stack Engineer.</li>
+<li>💻 I am currently exploring Solana and ZK rollups.</li>
+<li>👯 I’m looking to collaborate on blockchain projects</li>
 <li>💬 Ask me anything, I am ready to help!</li>
 <br/>
     
@@ -12,26 +12,6 @@
     <a href="https://www.instagram.com/rithvikp03"><img align="center" src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/instagram.svg" alt="Rithvik-padma" height="45" width="45" /></a>
     <a href="https://telegram.dog/volfiros"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="DontBeAfraid" height="45" width="45" /></a>
 </p>
-
-## Programming Languages  
-
-<p>
-    <a href="#"><img alt="Rust" align="center" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="22"></a>
-    <a href="#"><img alt="TypeScript" align="center" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20"></a>
-    <a href="#"><img alt="C" align="center" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Python" align="center" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Java" align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="20"></a>
-</p>
-
-## Frameworks
-
-<flex>
-    <a href="#"><img alt="React" align="center" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="22.5"></a>
-    <a href="#"><img alt="Next.js" align="center" src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="22.5"></a>
-    <a href="#"><img alt="Vue" align="center" src="https://img.shields.io/badge/Vue-41B883.svg?style=for-the-badge&logo=vue.js&logoColor=white" height="20"></a>    
-    <a href="#"><img alt="Web3.js" align="center" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" height="20"></a>    
-    <a href="#"><img alt="Tailwind" align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"></a>
-</flex>
 
 ## My Github Stats
 
