@@ -19,11 +19,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-2. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2229257027) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-3. 🗣 Commented on [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4#issuecomment-2227471072) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-4. ❗ Opened issue [#4](https://github.com/ewen-lbh/zed-wakatime/issues/4) in [ewen-lbh/zed-wakatime](https://github.com/ewen-lbh/zed-wakatime)
-5. ❗ Opened issue [#14459](https://github.com/zed-industries/zed/issues/14459) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🚀 Published release [v0.7.0](https://github.com/PanoraTL/extension/releases/tag/v0.7.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+2. 🎉 Merged PR [#9](https://github.com/PanoraTL/extension/pull/9) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+3. 🗣 Commented on [#9](https://github.com/PanoraTL/extension/pull/9#issuecomment-3954973343) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+4. 💪 Opened PR [#9](https://github.com/PanoraTL/extension/pull/9) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+5. 🚀 Published release [v0.6.0](https://github.com/PanoraTL/extension/releases/tag/v0.6.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
 <!--END_SECTION:activity-->   
 
 <br/>
