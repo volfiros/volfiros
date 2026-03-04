@@ -19,11 +19,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/PanoraTL/extension/pull/10) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-2. 🚀 Published release [v0.7.0](https://github.com/PanoraTL/extension/releases/tag/v0.7.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-3. 🎉 Merged PR [#9](https://github.com/PanoraTL/extension/pull/9) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-4. 🗣 Commented on [#9](https://github.com/PanoraTL/extension/pull/9#issuecomment-3954973343) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-5. 💪 Opened PR [#9](https://github.com/PanoraTL/extension/pull/9) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+1. 🎉 Merged PR [#10](https://github.com/PanoraTL/extension/pull/10) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+2. 💪 Opened PR [#10](https://github.com/PanoraTL/extension/pull/10) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+3. 🚀 Published release [v0.7.0](https://github.com/PanoraTL/extension/releases/tag/v0.7.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+4. 🎉 Merged PR [#9](https://github.com/PanoraTL/extension/pull/9) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+5. 🗣 Commented on [#9](https://github.com/PanoraTL/extension/pull/9#issuecomment-3954973343) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
 <!--END_SECTION:activity-->   
 
 <br/>
