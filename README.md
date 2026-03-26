@@ -19,11 +19,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.9.0](https://github.com/PanoraTL/extension/releases/tag/v0.9.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-2. 🚀 Published release [v0.8.0](https://github.com/PanoraTL/extension/releases/tag/v0.8.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-3. 🎉 Merged PR [#11](https://github.com/PanoraTL/extension/pull/11) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-4. 🗣 Commented on [#11](https://github.com/PanoraTL/extension/pull/11#issuecomment-4060582398) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-5. 💪 Opened PR [#11](https://github.com/PanoraTL/extension/pull/11) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+1. 🎉 Merged PR [#1](https://github.com/volfiros/mivo/pull/1) in [volfiros/mivo](https://github.com/volfiros/mivo)
+2. 💪 Opened PR [#1](https://github.com/volfiros/mivo/pull/1) in [volfiros/mivo](https://github.com/volfiros/mivo)
+3. 🚀 Published release [v0.9.0](https://github.com/PanoraTL/extension/releases/tag/v0.9.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+4. 🚀 Published release [v0.8.0](https://github.com/PanoraTL/extension/releases/tag/v0.8.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+5. 🎉 Merged PR [#11](https://github.com/PanoraTL/extension/pull/11) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
 <!--END_SECTION:activity-->   
 
 <br/>
