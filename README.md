@@ -19,11 +19,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/volfiros/mivo/pull/1) in [volfiros/mivo](https://github.com/volfiros/mivo)
-2. 💪 Opened PR [#1](https://github.com/volfiros/mivo/pull/1) in [volfiros/mivo](https://github.com/volfiros/mivo)
-3. 🚀 Published release [v0.9.0](https://github.com/PanoraTL/extension/releases/tag/v0.9.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-4. 🚀 Published release [v0.8.0](https://github.com/PanoraTL/extension/releases/tag/v0.8.0) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
-5. 🎉 Merged PR [#11](https://github.com/PanoraTL/extension/pull/11) in [PanoraTL/extension](https://github.com/PanoraTL/extension)
+1. 🗣 Commented on [#256](https://github.com/getpaseo/paseo/pull/256#issuecomment-4229909659) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+2. 💪 Opened PR [#256](https://github.com/getpaseo/paseo/pull/256) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+3. 🗣 Commented on [#255](https://github.com/getpaseo/paseo/pull/255#issuecomment-4229890907) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+4. 💪 Opened PR [#255](https://github.com/getpaseo/paseo/pull/255) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+5. 🎉 Merged PR [#1](https://github.com/volfiros/mivo/pull/1) in [volfiros/mivo](https://github.com/volfiros/mivo)
 <!--END_SECTION:activity-->   
 
 <br/>
