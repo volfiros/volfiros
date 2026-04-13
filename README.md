@@ -19,11 +19,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/getpaseo/paseo/pull/256#issuecomment-4229909659) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-2. 💪 Opened PR [#256](https://github.com/getpaseo/paseo/pull/256) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-3. 🗣 Commented on [#255](https://github.com/getpaseo/paseo/pull/255#issuecomment-4229890907) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-4. 💪 Opened PR [#255](https://github.com/getpaseo/paseo/pull/255) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-5. 🎉 Merged PR [#1](https://github.com/volfiros/mivo/pull/1) in [volfiros/mivo](https://github.com/volfiros/mivo)
+1. ❗ Opened issue [#12](https://github.com/volfiros/causalis/issues/12) in [volfiros/causalis](https://github.com/volfiros/causalis)
+2. ❗ Opened issue [#11](https://github.com/volfiros/causalis/issues/11) in [volfiros/causalis](https://github.com/volfiros/causalis)
+3. ❗ Opened issue [#10](https://github.com/volfiros/causalis/issues/10) in [volfiros/causalis](https://github.com/volfiros/causalis)
+4. ❗ Opened issue [#9](https://github.com/volfiros/causalis/issues/9) in [volfiros/causalis](https://github.com/volfiros/causalis)
+5. ❗ Opened issue [#8](https://github.com/volfiros/causalis/issues/8) in [volfiros/causalis](https://github.com/volfiros/causalis)
 <!--END_SECTION:activity-->   
 
 <br/>
