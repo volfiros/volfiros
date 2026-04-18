@@ -1,8 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hey👋;This+is+Rithvik;Happy+to+connect!&size=30&weight=800">
 
 
-[![wakatime](https://wakatime.com/badge/user/6a5ddb8b-0c8e-4305-a44d-6c491192959b.svg)](https://wakatime.com/@6a5ddb8b-0c8e-4305-a44d-6c491192959b)
-
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#181](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/issues/181#issuecomment-4258848233) in [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)
