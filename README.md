@@ -6,16 +6,12 @@
 <li>💬 Ask me anything, I am ready to help!</li>
 <br/>
     
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
-    <tr>
-      <td><a href="https://twitter.com/volfiros"><img src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" height="45" width="45" alt="Rithvik"/></a></td>
-      <td><a href="https://www.linkedin.com/in/sai-rithvik-padma-6229ba224"><img src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/linkedin.svg" height="45" width="45" alt="Sai-Rithvik-padma"/></a></td>
-      <td><a href="https://www.instagram.com/rithvikp03"><img src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/instagram.svg" height="45" width="45" alt="Rithvik-padma"/></a></td>
-      <td><a href="https://telegram.dog/volfiros"><img src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" height="45" width="45" alt="DontBeAfraid"/></a></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+    <a href="https://twitter.com/volfiros"><img src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/twitter.svg" alt="Rithvik" height="45" width="45" style="border-radius: 100%;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/sai-rithvik-padma-6229ba224" target="blank"><img src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/linkedin.svg" alt="Sai-Rithvik-padma" height="45" width="45" style="border-radius: 100%;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/rithvikp03"><img src="https://raw.githubusercontent.com/Rithvik-padma/Rithvik-padma/main/assets/instagram.svg" alt="Rithvik-padma" height="45" width="45" style="border-radius: 100%;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://telegram.dog/volfiros"><img src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="DontBeAfraid" height="45" width="45" style="border-radius: 100%;" /></a>
+</p>
 
 ## My Github Stats
 
