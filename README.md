@@ -3,11 +3,11 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/issues/181#issuecomment-4258848233) in [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)
-2. 🗣 Commented on [#11](https://github.com/volfiros/causalis/issues/11#issuecomment-4236755306) in [volfiros/causalis](https://github.com/volfiros/causalis)
-3. ❗ Opened issue [#11](https://github.com/volfiros/causalis/issues/11) in [volfiros/causalis](https://github.com/volfiros/causalis)
-4. ❗ Opened issue [#10](https://github.com/volfiros/causalis/issues/10) in [volfiros/causalis](https://github.com/volfiros/causalis)
-5. ❗ Opened issue [#9](https://github.com/volfiros/causalis/issues/9) in [volfiros/causalis](https://github.com/volfiros/causalis)
+1. 🔒 Closed issue [#12](https://github.com/volfiros/causalis/issues/12) in [volfiros/causalis](https://github.com/volfiros/causalis)
+2. 🔒 Closed issue [#11](https://github.com/volfiros/causalis/issues/11) in [volfiros/causalis](https://github.com/volfiros/causalis)
+3. 🔒 Closed issue [#9](https://github.com/volfiros/causalis/issues/9) in [volfiros/causalis](https://github.com/volfiros/causalis)
+4. 🔒 Closed issue [#8](https://github.com/volfiros/causalis/issues/8) in [volfiros/causalis](https://github.com/volfiros/causalis)
+5. 🔒 Closed issue [#6](https://github.com/volfiros/causalis/issues/6) in [volfiros/causalis](https://github.com/volfiros/causalis)
 <!--END_SECTION:activity-->   
 
 <br/>
