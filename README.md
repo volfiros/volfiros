@@ -3,8 +3,8 @@
 
 ### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/Autoloops/greplica/pull/32) in [Autoloops/greplica](https://github.com/Autoloops/greplica)
-2. 🔒 Closed issue [#12](https://github.com/volfiros/causalis/issues/12) in [volfiros/causalis](https://github.com/volfiros/causalis)
+1. 🗣 Commented on [#32](https://github.com/Autoloops/greplica/pull/32#issuecomment-4785716893) in [Autoloops/greplica](https://github.com/Autoloops/greplica)
+2. 💪 Opened PR [#32](https://github.com/Autoloops/greplica/pull/32) in [Autoloops/greplica](https://github.com/Autoloops/greplica)
 3. 🔒 Closed issue [#11](https://github.com/volfiros/causalis/issues/11) in [volfiros/causalis](https://github.com/volfiros/causalis)
 4. 🔒 Closed issue [#9](https://github.com/volfiros/causalis/issues/9) in [volfiros/causalis](https://github.com/volfiros/causalis)
 5. 🔒 Closed issue [#8](https://github.com/volfiros/causalis/issues/8) in [volfiros/causalis](https://github.com/volfiros/causalis)
